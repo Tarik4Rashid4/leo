@@ -2,10 +2,6 @@
 # leo
 Lagrange Elementary Optimization (Leo) with two applications:
 
-
-
-% Author:Aso M Aladdin & Tarik A Rashid 
-
 % Cite as:
 
 % Aladdin, A. M., & Rashid, T. A. (2023).Leo: Lagrange Elementary Optimization. arXiv preprint arXiv:2304.05346. https://doi.org/10.48550/arXiv.2304.05346
